@@ -1,3 +1,9 @@
+chocolates
+Sweets
+crisps
+Flavored milk
+Yoghurt
+Hotdogs
 Harpic
 Vim
 Dettol
